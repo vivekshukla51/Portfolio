@@ -6,7 +6,7 @@ export default function Home() {
       <header></header>
 
       <h1 className="playfair" style={{ marginTop: '-1.2rem' }}>
-        Hi, I'm Vivek Shukla
+        Hi, I&#39;m Vivek Shukla
       </h1>
       <p className="subtitle">
         Final-year Information Science and Engineering student at BMSITM. I love solving DSA problems and building sleek, functional websites. Passionate about both design and development, and always eager to learn and grow.

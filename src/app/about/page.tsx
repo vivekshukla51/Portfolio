@@ -22,7 +22,7 @@ export default function About() {
       </div>
       <div style={{ marginTop: "2.5rem" }}>
         Thanks for visiting the site.<br/>
-        Feel free to explore my work and projects. If you're interested in connecting or collaborating, don't hesitate to reach out.
+        Feel free to explore my work and projects. If you&#39;re interested in connecting or collaborating, don&#39;t hesitate to reach out.
       </div>
     </>
   );
